@@ -1,4 +1,4 @@
-<img src="https://username.github.io/repository-name/assets/pixelated-content.svg" alt="Pixelated Content">
+<img src="https://github.com/akaza21/akaza21/blob/main/Assets/new1.svg" alt="Pixelated Content">
 
 <p align="center"> <a href="https://twitter.com/pragyash258" target="blank"><img width="1000" src="https://i.pinimg.com/originals/db/33/9f/db339ff5e9ceff3d40da442507574f10.gif" alt="pragyash258" /></a> </p>
 
