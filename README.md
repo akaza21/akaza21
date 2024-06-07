@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript, React, Django**, btw **HTMX>>>>>>>>>React** (yes, I use only **React** 😢🤧🤧🤧).
 
 
-<h2 align="left">🧰 Languages and Tools:</h2>
+<h2 align="left">🧰 Languages and Tools</h2>
 
 
 <p align="center">
@@ -107,7 +107,7 @@
 <!-- <p><img align="right" height="100"src="https://lukeoakdenrayner.files.wordpress.com/2022/03/8816995.gif?w=750" alt="akaza21" /></p> -->
 
 
-<h2 align="left">✌️Connect with me</h2>
+<h2 align="left">✌️Connect with Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/akaza20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akaza20/" height="40" width="40" /></a>
 <a href="https://twitter.com/pragyash258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyash258" height="30" width="40" /></a>
