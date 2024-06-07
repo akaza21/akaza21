@@ -109,7 +109,7 @@
 
 <h2 align="left">✌️Connect with Me</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/akaza20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akaza20/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/akaza20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akaza20/" height="30" width="40" /></a>
 <a href="https://twitter.com/pragyash258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyash258" height="30" width="40" /></a>
 <a href="https://fb.com/pragyash pratim barmam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pragyash pratim barmam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/rbkrish2517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rbkrish2517" height="30" width="40" /></a>
