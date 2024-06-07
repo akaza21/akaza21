@@ -1,1 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        
+        .pixelated {
+            font-size: 12px;
+            font-family: 'Press Start 2P', cursive;
+            text-align: center;
+            color: #0285ad; /* Change to your desired font color */
+            font-weight: bold; /* Change to your desired font weight */
+            image-rendering: pixelated;
+        }
+
+        .pixel-move {
+            position: relative;
+            animation: pixel-move 0.5s steps(5) infinite;
+        }
+
+        @keyframes pixel-move {
+            0% { top: 0px; left: 0px; }
+            25% { top: 2px; left: 2px; }
+            50% { top: 0px; left: 2px; }
+            75% { top: 2px; left: 0px; }
+            100% { top: 0px; left: 0px; }
+        }
+    </style>
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="pixelated">
+            <h1 class="pixel-move">Welcome to My Code PlayGround🛜</h1>
+            
+        </div>
+    </foreignObject>
+</svg>
 
