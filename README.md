@@ -5,9 +5,7 @@
 
 <h2>About Me</h2>
 
-- I'm **Pragyash**, a software engineer on a journey to build innovative and impactful solutions with a strong foundation in computer science, data structures and algorithms
-
-- I am currently working as a software engineer. I love finding creative ways to fix things be it writing softwares or exploring new technologies. I am always curious to learn something new!
+- I'm **Pragyash**, currently working as a software engineer. I love finding creative ways to fix things be it writing softwares or exploring new technologies. I am always curious to learn something new!
 
 - All of my projects are available at [https://pragyash-portfolio.vercel.app/](https://pragyash-portfolio.vercel.app/)
 
