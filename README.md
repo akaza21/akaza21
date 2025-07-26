@@ -5,18 +5,16 @@
 
 <h2>About Me</h2>
 
-- 🧑‍💻 I'm **Pragyash**, a passionate Full Stack Developer and Machine Learning Enthusiast on a journey to build innovative and impactful solutions with a strong foundation in computer science, data structures, and algorithms
+- I'm **Pragyash**, a software engineer on a journey to build innovative and impactful solutions with a strong foundation in computer science, data structures and algorithms
 
-- 📚 I’m currently learning **Spring Framework and Next.js**
+- I am currently working as a software engineer. I love finding creative ways to fix things be it writing softwares or exploring new technologies. I am always curious to learn something new!
 
-- 👨‍💻 All of my projects are available at [https://pragyash-portfolio.vercel.app/](https://pragyash-portfolio.vercel.app/)
+- All of my projects are available at [https://pragyash-portfolio.vercel.app/](https://pragyash-portfolio.vercel.app/)
 
-
-- 📫 Hers's my email : **pragyash258@gmail.com**
+- Hers's my email : **pragyash258@gmail.com**
 
 - 📄 My  👉 [Resume](https://drive.google.com/file/d/1ZxK7Jy2uwAOJ-wvJQGXpbb4CU4QMOPgU/view?usp=sharing) 👈
 
-- 💬 Ask me about **JavaScript, React, Django**, btw **HTMX>>>>>>>>>React** (yes, I use only **React** 😢🤧🤧🤧).
 
 
 <h2 align="left">🧰 Languages and Tools</h2>
@@ -92,22 +90,21 @@
 </p>
 
 <h2 align="left">✨Highlights</h2>
-<p> I love solving coding problems and I do give weekly contests (I'm lazy but I try trust me😌)</p>
+<p> I love solving coding problems and I do give weekly contests</p>
 
-- 🏅 **[LeetCode Knight](https://leetcode.com/u/pragyash258/)** : Slaying Coding Dragons One Problem at a Time! 🐉⚔️
+- 🏅 **[LeetCode Knight](https://leetcode.com/u/pragyash258/)**
 
 <p><img align="center" height="300"src="https://media.tenor.com/LmUk899rc0UAAAAM/igris-solo-leveling.gif" alt="akaza21" /></p>
 
-- 🏅 **[CodeForces Specialist](https://codeforces.com/profile/rbkrish2517)** : I'm stuck at 1400 , let me outtt😭😭!!
+- 🏅 **[CodeForces Specialist](https://codeforces.com/profile/rbkrish2517)**
 
-<h2 align="left">😒GitHub Stat</h2>
+<h2 align="left">GitHub Stat</h2>
 
 <p><img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaza21&show_icons=true&locale=en&layout=compact" alt="akaza21" />
-<img align="center" height="100"src="https://lukeoakdenrayner.files.wordpress.com/2022/03/8816995.gif?w=750" alt="akaza21" /></p>
 <!-- <p><img align="right" height="100"src="https://lukeoakdenrayner.files.wordpress.com/2022/03/8816995.gif?w=750" alt="akaza21" /></p> -->
 
 
-<h2 align="left">✌️Connect with Me</h2>
+<h2 align="left"> Connect with Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/akaza20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akaza20/" height="30" width="40" /></a>
 <a href="https://twitter.com/pragyash258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyash258" height="30" width="40" /></a>
