@@ -98,6 +98,7 @@
 
 <img width="883" height="193" alt="Screenshot 2025-07-27 at 12 10 30 AM" src="https://github.com/user-attachments/assets/925a5e56-0685-4632-ad75-8e5a3d2bfd40" />
 
+<img width="355" height="301" alt="Screenshot 2025-07-27 at 12 17 59 AM" src="https://github.com/user-attachments/assets/f78f69c4-551a-46b2-96b2-acb5c11f9b1b" />
 
 
 <h2 align="left"> Connect with Me</h2>
