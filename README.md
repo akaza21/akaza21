@@ -9,9 +9,9 @@
 
 - All of my projects are available at [https://pragyash-portfolio.vercel.app/](https://pragyash-portfolio.vercel.app/)
 
-- Hers's my email : **pragyash258@gmail.com**
+- My email : **pragyash258@gmail.com**
 
-- 📄 My  👉 [Resume](https://drive.google.com/file/d/1ZxK7Jy2uwAOJ-wvJQGXpbb4CU4QMOPgU/view?usp=sharing) 👈
+- 📄 My [Resume](https://drive.google.com/file/d/1ZxK7Jy2uwAOJ-wvJQGXpbb4CU4QMOPgU/view?usp=sharing)
 
 
 
