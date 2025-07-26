@@ -89,19 +89,17 @@
   </a>
 </p>
 
-<h2 align="left">✨Highlights</h2>
+<h2 align="left">Highlights</h2>
 <p> I love solving coding problems and I do give weekly contests</p>
 
-- 🏅 **[LeetCode Knight](https://leetcode.com/u/pragyash258/)**
+- **[LeetCode Knight](https://leetcode.com/u/pragyash258/)**
 
-<p><img align="center" height="300"src="https://media.tenor.com/LmUk899rc0UAAAAM/igris-solo-leveling.gif" alt="akaza21" /></p>
-
-- 🏅 **[CodeForces Specialist](https://codeforces.com/profile/rbkrish2517)**
+- **[CodeForces Specialist](https://codeforces.com/profile/rbkrish2517)**
 
 <h2 align="left">GitHub Stat</h2>
 
-<p><img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaza21&show_icons=true&locale=en&layout=compact" alt="akaza21" />
-<!-- <p><img align="right" height="100"src="https://lukeoakdenrayner.files.wordpress.com/2022/03/8816995.gif?w=750" alt="akaza21" /></p> -->
+<img width="883" height="193" alt="Screenshot 2025-07-27 at 12 10 30 AM" src="https://github.com/user-attachments/assets/925a5e56-0685-4632-ad75-8e5a3d2bfd40" />
+
 
 
 <h2 align="left"> Connect with Me</h2>
