@@ -7,11 +7,7 @@
 
 - I'm **Pragyash**, currently working as a software engineer. I love finding creative ways to fix things be it writing softwares or exploring new technologies. I am always curious to learn something new!
 
-- All of my projects are available at [https://pragyash-portfolio.vercel.app/](https://pragyash-portfolio.vercel.app/)
-
 - My email : **pragyash258@gmail.com**
-
-- 📄 My [Resume](https://drive.google.com/file/d/1ZxK7Jy2uwAOJ-wvJQGXpbb4CU4QMOPgU/view?usp=sharing)
 
 
 
@@ -87,12 +83,6 @@
   </a>
 </p>
 
-<h2 align="left">Highlights</h2>
-<p> I love solving coding problems and I do give weekly contests</p>
-
-- **[LeetCode Knight](https://leetcode.com/u/pragyash258/)**
-
-- **[CodeForces Specialist](https://codeforces.com/profile/rbkrish2517)**
 
 <h2 align="left">GitHub Stat</h2>
 
